@@ -1,1 +1,18 @@
+{
+    "domain": "is-a-fullstack.dev",
+    "subdomain": "wuspico",
 
+    "owner": {
+        "email": "wuspico@gmail.com"
+    },
+
+    "records": {
+        "A": ["103.153.64.28"],
+
+        "AAAA": ["2606:4700:4700::1111", "2606:4700:4700::1001"],
+
+        "CNAME": "wuspico.is-a-fullstack.dev",
+    },
+
+    "proxied": false
+}
